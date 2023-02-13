@@ -19,3 +19,5 @@ It's a online platform to by food through app
 ## 🛠 Skills
 Android Studio, Firebase, Github
 
+![Logo](https://www.google.com/search?q=zomato+app+logo&source=lnms&tbm=isch&sa=X&ved=2ahUKEwik2K7w4ZL9AhUO1GEKHdydD20Q_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1#imgrc=lMVKdt-Pfv9-wM)
+
