@@ -20,10 +20,9 @@ It's a online platform to by food through app
 Android Studio, Firebase, Github
 
 
-
-
-
 ## Screenshots
 
-![App Screenshot]![confused](https://user-images.githubusercontent.com/125123848/218967480-f0081aa5-732c-4cf2-b3d7-d52b55f1ff97.png)
+![confused](https://user-images.githubusercontent.com/125123848/218968395-d6413476-51a4-4d27-9191-b7b6adf6e60e.png)
+![dell](https://user-images.githubusercontent.com/125123848/218968404-da2f2392-2786-4c47-ad2d-fe40ee7708b8.png)
+
 
